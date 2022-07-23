@@ -127,6 +127,9 @@ body{
     display: flex;
     justify-content: space-around;
   }
+  .logo a :hover{
+    opacity: 70%;
+  }
   .about{
     width: 100%;
   }
